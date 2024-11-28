@@ -1,5 +1,5 @@
 # Hello World
-This is my home page! My name is Your Name and I am a student at Cal State Fullerton and my major is Electrical Engineering.
+This is my home page! My name is Lucas Huynh and I am a student at Cal State Fullerton and my major is Electrical Engineering.
 
 ## Computer Science Projects
 My GitHub page is http://github.com/spokkyman.
